@@ -1,12 +1,12 @@
 Algoritmo "semnome"
 // 
 //  
-// DescriÁ„o   : Escreva um programa que mostre na tela mensagem "Ol·, Mundo!"
-// Autor(a)    : Daiana Si„o
+// Descri√ß√£o   : Escreva um programa que mostre na tela mensagem "Ol√°, Mundo!"
+// Autor(a)    : Daiana Sim√£o
 // Data atual  : 23/06/2022
 Var
 
 
 Inicio
-      Escreva("Ol·, Mundo!")
+      Escreva("Ol√°, Mundo!")
 Fimalgoritmo
