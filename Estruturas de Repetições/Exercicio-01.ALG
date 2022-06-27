@@ -1,9 +1,9 @@
 algoritmo "contando de 6 ate 11"
 //
 //
-// DescriÁ„o   :  Escreva um programa que mostre na tela a seguinte contagem:
+// Descri√ß√£o   :  Escreva um programa que mostre na tela a seguinte contagem:
 //6 7 8 9 10 11 Acabou!
-// Autor(a)    : Daiana Sim„o
+// Autor(a)    : Daiana Sim√£o
 // Data atual  : 23/06/2022
 var
    contador:inteiro
@@ -13,6 +13,6 @@ inicio
    Enquanto contador<= 11 faca
       Escreva(contador)
       contador<-contador+1
-
+   FimEnquanto
    Escreval("ACABOU!")
 fimalgoritmo
