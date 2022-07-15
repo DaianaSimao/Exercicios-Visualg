@@ -1,11 +1,12 @@
 algoritmo "Segmentos de um triangulo"
 //
 //
-// Descrição   : [DESAFIO] Crie um programa que leia o tamanho de três segmentos de reta.
-//Analise seus comprimentos e diga se é possível formar um triângulo com essas
-//retas. Matematicamente, para três segmentos formarem um triângulo, o comprimento
+//
+// DescriÃ§Ã£o   : [DESAFIO] Crie um programa que leia o tamanho de trÃªs segmentos de reta.
+//Analise seus comprimentos e diga se Ã© possÃ­vel formar um triÃ¢ngulo com essas
+//retas. Matematicamente, para trÃªs segmentos formarem um triÃ¢ngulo, o comprimento
 //de cada lado deve ser menor que a soma dos outros dois.)
-// Autor(a)    : Daiana Simão
+// Autor(a)    : Daiana SimÃ£o
 // Data atual  : 23/06/2022
 var
    a,b,c,triangulo:Real
