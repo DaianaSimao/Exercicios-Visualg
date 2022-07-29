@@ -1,2 +1,2 @@
 # Exercicios-Visualg
-Exercicios propostos e resolvidos de Algoritmos e Logica de programção do Visualg carol S2 test
+Exercicios propostos e resolvidos de Algoritmos e Logica de programção do Visualg carol S2
